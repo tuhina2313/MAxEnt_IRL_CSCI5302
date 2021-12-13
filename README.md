@@ -1,0 +1,1 @@
+Implementation of Maximum Entropy IRL for Advanced Robotics project CSCI 5302
